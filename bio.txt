@@ -1,0 +1,13 @@
+Biografía
+image
+
+Dr. Shawn M. Douglas
+El Dr. Shawn M. Douglas es un Profesor Asistente en la UCSF en el Departamento de Farmacología Celular y Molecular y su grupo trabaja en el campo de la nanotecnología del ADN. El Dr. Douglas obtuvo su B.S. en Ciencias de Computos en Yale en 2003 y un Ph.D. en biofísica en Harvard en 2009.
+
+Publicado en
+
+septiembre de 2019
+
+Resumen
+La electroforesis en gel es una técnica poderosa en la biología molecular que permite la separación y visualización de biomoléculas como el ADN, el ARN o las proteínas. Los objetivos principales de esta actividad incluyen presentar cómo funcionan los geles, mostrar qué tipo de datos se pueden adquirir utilizando geles y cómo se pueden interpretar los datos del gel como parte de un experimento biológico. La actividad utiliza una herramienta de simulación, Gelbox, que le permite a los usuarios explorar rápidamente cómo el cambio en los parámetros experimentales puede afectar los resultados de la electroforesis en gel.
+
